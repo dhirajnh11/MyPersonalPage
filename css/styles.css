@@ -1,0 +1,46 @@
+/* , -->  AND */
+
+.Summary .WorkExperiences, h3 {
+  text-decoration: underline 2px;
+  text-align: left;
+}
+
+.dotted {
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  width:25%;
+}
+
+
+.Company th {
+  width: 480px;
+  text-align: left;
+}
+
+body{
+  background-color: #EAF6F6;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.Education th {
+  width: 500px;
+  text-align: left;
+}
+
+.Certifications thead {
+text-align: center;
+text-underline-position: below;
+text-decoration: underline dotted 0.5px;
+}
+
+.Certifications table {
+  border-collapse: separate;
+  width: 600px;
+}
+
+.Awards table {
+  border-collapse: separate;
+  width: 600px;
+}
